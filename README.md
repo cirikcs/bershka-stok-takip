@@ -16,6 +16,7 @@ Bu proje, Bershka mağazasındaki çanta ve aksesuar gibi bedensiz ürünlerin s
 ## Kurulum ve Çalıştırma
 Sunucuda gerekli kütüphaneleri yükle:
 `pip install selenium webdriver-manager python-telegram-bot`
+
 Botu arka planda kesintisiz çalıştırmak için:
 1. `screen -S bershka_bot` komutuyla yeni bir ekran aç.
 2. `python3 bershka.py` yazarak botu başlat.
