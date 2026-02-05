@@ -3,6 +3,7 @@ Bu proje, Bershka mağazasındaki çanta ve aksesuar gibi bedensiz ürünlerin s
 
 ## Özellikler
 * **Gerçek Zamanlı Takip:** Ürün sayfalarını Selenium kullanarak belirli aralıklarla tarar.
+* **Çift Kontrol Mekanizması:** Yanlış bildirimlerin önüne geçmek için stok durumunu iki kez üst üste kontrol ederek doğrular.
 * **Telegram Bildirimleri:** Stok durumu değiştiğinde anlık olarak Telegram üzerinden mesaj gönderir.
 * **Bulut Entegrasyonu:** Google Cloud Platform (GCP) üzerinde 7/24 kesintisiz çalışacak şekilde yapılandırılmıştır.
 * **Performans Odaklı:** `finally: driver.quit()` bloğu ile sunucu kaynaklarını (RAM/CPU) verimli kullanır.
