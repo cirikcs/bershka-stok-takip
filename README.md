@@ -1,0 +1,1 @@
+# bershka-stok-takip
