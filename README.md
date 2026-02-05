@@ -1,5 +1,5 @@
 # Bershka Stok Takip Botu
-Bu proje, Bershka mağazasındaki belirli ürünlerin stok durumunu otomatik olarak takip eden ve stok geldiğinde anlık bildirim gönderen bir otomasyon sistemidir.
+Bu proje, Bershka mağazasındaki çanta ve aksesuar gibi bedensiz ürünlerin stok durumunu takip etmek ve stok geldiğinde anlık bildirim göndermek için geliştirilmiş bir otomasyon sistemidir.
 
 ## Özellikler
 * **Gerçek Zamanlı Takip:** Ürün sayfalarını Selenium kullanarak belirli aralıklarla tarar.
