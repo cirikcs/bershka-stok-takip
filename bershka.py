@@ -10,8 +10,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 VPS_MODU = True
-TOKEN = "8539943154:AAEcAMcDyIU6sKwnIQMVoc4NmmCcUvvRoRA"
-ALICILAR = ["8205875564", "8556439449"]
+TOKEN = "telegramtoken"
+ALICILAR = ["alıcıid"]
 URL = "https://www.bershka.com/tr/bowling-%C3%A7antas%C4%B1-c0p191238954.html?colorId=700"
 
 def telegram_gonder(mesaj):
